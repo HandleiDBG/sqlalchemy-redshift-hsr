@@ -1,0 +1,1 @@
+# sqlalchemy_redshift_hsr
